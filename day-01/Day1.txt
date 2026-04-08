@@ -1,0 +1,3 @@
+devops = development + operations
+Linux sabse important skill hai. 
+Devops me sabse jruri linux k command sikhna hota hai. 

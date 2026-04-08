@@ -1,0 +1,15 @@
+=== Linux Commands Seekhe ===
+
+Day 1: 
+- pwd : current location dikhata hai 
+- ls : files list karta hai 
+- mkdir : folder banata hai 
+- cd : folder change karta hai 
+- touch : file banata hai 
+
+Day 2:
+- cp : copy karta hai 
+- mv : move/rename karta hai 
+- rm : delete karta hai 
+- nano : file edit krta hai 
+- grep : searchkarta hai 
