@@ -1,0 +1,22 @@
+==== Networking Basics ====
+
+1. IP Address = Internet pe device ka address
+   - private: 192.168.x.x (ghar ka network)
+   - public: Duniya me tumhara address
+   command: ip addr show
+
+
+2. DNS = Domain name ko IP me convert karta hai 
+   google.com -> 142.250.x.x
+   command: nslookup google.com
+
+
+3. HTTP vs HTTPS
+   - HTTP = Unsecure (postcard)
+   - HTTPS = Secure (sealed envelope)
+   - Port 80 = HTTP
+   - Port 443 = HTTPS 
+
+
+4. Important ports:
+   22=SSH, 80=HTTP, 443=HTTPS, 3306=MySQL
